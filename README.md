@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey! My name is Sid Sabhnani, and I'm a student at UT Austin majoring in Computer Science and Canfield Business Honors.
+
+I am interested in creating machine learning technologies from both a theoretical computer scienist and full-stack software engineering perspective.
+
+You can reach me by email at ssabhnani@utexas.edu, /in/sidsabhnani, or learn more at sidsabhnani.com.
 
 <!--
 **sidsabh/sidsabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
