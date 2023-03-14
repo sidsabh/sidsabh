@@ -1,7 +1,5 @@
 Hey! My name is Sid Sabhnani, and I'm a student at UT Austin majoring in Honors Computer Science and Canfield Business Honors.
 
-I am interested in creating machine learning technologies from both a theoretical computer scientist and full-stack software engineering perspective.
-
 You can reach me by email at ssabhnani@utexas.edu, [/in/sidsabhnani](https://www.linkedin.com/in/sidsabhnani/), or learn more at [sidsabhnani.com](https://sidsabhnani.com/).
 
 <!--
