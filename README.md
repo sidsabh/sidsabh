@@ -1,4 +1,4 @@
-Hey! My name is Sid Sabhnani, and I'm a student at UT Austin majoring in Honors Computer Science and Canfield Business Honors.
+Hey! My name is Sid Sabhnani, and I'm a student at UT Austin studying computer science.
 
 You can reach me by email at ssabhnani@utexas.edu, [/in/sidsabhnani](https://www.linkedin.com/in/sidsabhnani/), or learn more at [sidsabhnani.com](https://sidsabhnani.com/).
 
